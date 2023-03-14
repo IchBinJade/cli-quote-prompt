@@ -1,5 +1,5 @@
 # CLI Quote Prompt DB
-A simple Python CLI application to allow entry, and display, of quotes stored in a database.
+A simple Python CLI application to allow entry, and display, of quotes stored in a local database.
 
 ## Description
 This CLI app allows users to add their quotes to a database and either retrieve all entries to display or have the app return a random quote.
