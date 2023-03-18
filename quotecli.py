@@ -1,7 +1,7 @@
 import typer
 import random
 from model import Quote
-from database import add_row, get_quotes
+from database import init_db, add_row, get_quotes
 
 app = typer.Typer()
 
@@ -43,4 +43,5 @@ def display_random():
 
 
 if __name__ == "__main__":
+    init_db()
     app()
