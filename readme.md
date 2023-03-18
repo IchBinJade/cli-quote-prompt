@@ -53,6 +53,7 @@ Commands:
 
 ## Version History
 0.2 - Fix Issue [#1](https://github.com/IchBinJade/cli-quote-prompt/issues/1) where database required manual initialisation
+
 0.1 - Original Version
 
 ## License
