@@ -56,5 +56,8 @@ Commands:
 
 0.1 - Original Version
 
+## Known Issues
+[#2](https://github.com/IchBinJade/cli-quote-prompt/issues/2) - Cursor Error when trying to add a row
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
